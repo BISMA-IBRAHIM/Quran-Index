@@ -1,0 +1,16 @@
+.index{
+    background-color: rgb(11, 79, 79);
+    color: whitesmoke;
+    text-align: center;
+}
+
+.index:hover {
+    background-color: rgb(46, 46, 33);
+  }
+  .head{
+    background-color: tan;
+    
+  }
+  .head:hover {
+    background-color: rgb(130, 130, 68);
+  }
